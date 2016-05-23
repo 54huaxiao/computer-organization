@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "F:/xilinx/SimpleCPU/Cpu.xst" -ofn "F:/xilinx/SimpleCPU/Cpu.syr" 
+xst -intstyle ise -ifn "G:/My Documents/Tencent Files/769274338/FileRecv/SimpleCPU_v1/Cpu.xst" -ofn "G:/My Documents/Tencent Files/769274338/FileRecv/SimpleCPU_v1/Cpu.syr" 
+xst -intstyle ise -ifn "G:/My Documents/Tencent Files/769274338/FileRecv/SimpleCPU_v1/Cpu.xst" -ofn "G:/My Documents/Tencent Files/769274338/FileRecv/SimpleCPU_v1/Cpu.syr" 
+xst -intstyle ise -ifn "G:/My Documents/Tencent Files/769274338/FileRecv/SimpleCPU_v1/Cpu.xst" -ofn "G:/My Documents/Tencent Files/769274338/FileRecv/SimpleCPU_v1/Cpu.syr" 
+xst -intstyle ise -ifn "G:/My Documents/Tencent Files/769274338/FileRecv/SimpleCPU_v1/Cpu.xst" -ofn "G:/My Documents/Tencent Files/769274338/FileRecv/SimpleCPU_v1/Cpu.syr" 
+xst -intstyle ise -ifn "G:/My Documents/Tencent Files/769274338/FileRecv/SimpleCPU_v1/Cpu.xst" -ofn "G:/My Documents/Tencent Files/769274338/FileRecv/SimpleCPU_v1/Cpu.syr" 
+xst -intstyle ise -ifn "C:/Users/Vincent/Desktop/SimpleCPU_v1/Cpu.xst" -ofn "C:/Users/Vincent/Desktop/SimpleCPU_v1/Cpu.syr" 

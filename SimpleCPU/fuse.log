@@ -1,0 +1,35 @@
+Running: F:\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/Vincent/Desktop/SimpleCPU_v1/CPU_tf_isim_beh.exe -prj C:/Users/Vincent/Desktop/SimpleCPU_v1/CPU_tf_beh.prj work.CPU_tf work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Vincent/Desktop/SimpleCPU_v1/RegisterFile.v" into library work
+Analyzing Verilog file "C:/Users/Vincent/Desktop/SimpleCPU_v1/PC.v" into library work
+Analyzing Verilog file "C:/Users/Vincent/Desktop/SimpleCPU_v1/NextPc.v" into library work
+Analyzing Verilog file "C:/Users/Vincent/Desktop/SimpleCPU_v1/InstructionSave.v" into library work
+Analyzing Verilog file "C:/Users/Vincent/Desktop/SimpleCPU_v1/Extend.v" into library work
+Analyzing Verilog file "C:/Users/Vincent/Desktop/SimpleCPU_v1/DataSaver.v" into library work
+Analyzing Verilog file "C:/Users/Vincent/Desktop/SimpleCPU_v1/ControlUnit.v" into library work
+Analyzing Verilog file "C:/Users/Vincent/Desktop/SimpleCPU_v1/ALU.v" into library work
+Analyzing Verilog file "C:/Users/Vincent/Desktop/SimpleCPU_v1/Cpu.v" into library work
+Analyzing Verilog file "C:/Users/Vincent/Desktop/SimpleCPU_v1/CPU_tf.v" into library work
+Analyzing Verilog file "F:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module PC
+Compiling module InstructionSave
+Compiling module ControlUnit
+Compiling module RegisterFile
+Compiling module Extend
+Compiling module ALU
+Compiling module DataSaver
+Compiling module NextPc
+Compiling module Cpu
+Compiling module CPU_tf
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 8 sub-compilation(s) to finish...
+Compiled 11 Verilog Units
+Built simulation executable C:/Users/Vincent/Desktop/SimpleCPU_v1/CPU_tf_isim_beh.exe
+Fuse Memory Usage: 29784 KB
+Fuse CPU Usage: 890 ms

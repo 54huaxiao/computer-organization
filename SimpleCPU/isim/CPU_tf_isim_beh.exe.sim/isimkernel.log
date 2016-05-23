@@ -1,0 +1,28 @@
+Command line:
+   CPU_tf_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56150
+
+Wed Apr 27 00:30:25 2016
+
+
+ Elaboration Time: 0.140625 sec
+
+ Current Memory Usage: 689.779 Meg
+
+ Total Signals          : 123
+ Total Nets             : 500
+ Total Signal Drivers   : 48
+ Total Blocks           : 11
+ Total Primitive Blocks : 9
+ Total Processes        : 59
+ Total Traceable Variables  : 28
+ Total Scalar Nets and Variables : 19174
+
+ Total Simulation Time: 0.171875 sec
+
+ Current Memory Usage: 689.779 Meg
+
+Wed Apr 27 00:30:36 2016
+

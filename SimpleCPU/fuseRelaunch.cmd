@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Vincent/Desktop/SimpleCPU_v1/CPU_tf_isim_beh.exe" -prj "C:/Users/Vincent/Desktop/SimpleCPU_v1/CPU_tf_beh.prj" "work.CPU_tf" "work.glbl" 

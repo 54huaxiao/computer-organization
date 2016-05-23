@@ -1,0 +1,5 @@
+set -tmpdir "F:/xilinx/SimpleCPU/xst/projnav.tmp"
+set -xsthdpdir "F:/xilinx/SimpleCPU/xst"
+elaborate
+-ifn DataSaver.prj
+-ifmt mixed
