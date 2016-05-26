@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/CPU.xst" -ofn "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/CPU.syr" 

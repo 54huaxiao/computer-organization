@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/MC-CPU/zero_extend.xst" -ofn "E:/MC-CPU/zero_extend.syr" 

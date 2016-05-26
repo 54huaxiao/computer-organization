@@ -1,0 +1,46 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/CPUTest_isim_beh.exe -prj F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/CPUTest_beh.prj work.CPUTest work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/zero_extend.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/sign_extend.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/sa_extend.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/RegFile.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/read_mux.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/mux_2bit.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/mux_1bit.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/IMem.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/holding_reg.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/DMem.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/ALU.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/DataPath.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/CU.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/CPU.v" into library work
+Analyzing Verilog file "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/CPUTest.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/DataPath.v" Line 124: Port resetData is not connected to this instance
+Completed static elaboration
+Compiling module CU
+Compiling module IMem
+Compiling module DMem
+Compiling module RegFile
+Compiling module holding_reg
+Compiling module zero_extend
+Compiling module sign_extend
+Compiling module sa_extend
+Compiling module mux_1bit
+Compiling module read_mux
+Compiling module mux_2bit
+Compiling module ALU
+Compiling module DataPath
+Compiling module CPU
+Compiling module CPUTest
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 16 Verilog Units
+Built simulation executable F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/CPUTest_isim_beh.exe
+Fuse Memory Usage: 29528 KB
+Fuse CPU Usage: 624 ms

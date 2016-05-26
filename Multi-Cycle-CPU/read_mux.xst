@@ -1,0 +1,5 @@
+set -tmpdir "E:/MC-CPU/xst/projnav.tmp"
+set -xsthdpdir "E:/MC-CPU/xst"
+elaborate
+-ifn read_mux.prj
+-ifmt mixed

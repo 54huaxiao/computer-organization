@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/CPUTest_isim_beh.exe" -prj "F:/Google_Data/MIPS-CPU-master/MIPS-CPU-master/MC-CPU/CPUTest_beh.prj" "work.CPUTest" "work.glbl" 
